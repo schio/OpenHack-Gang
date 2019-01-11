@@ -4,4 +4,4 @@
 
 
 아래 이미지 클릭시 소개 영상으로 연결됩니다.
-[![Video Label](https://user-images.githubusercontent.com/19237348/47694589-89578780-dc41-11e8-91a5-3ba215be70fb.png)](https://youtu.be/uLR1RNqJ1Mw?t=0s)
+[![Video Label](https://user-images.githubusercontent.com/19237348/47694589-89578780-dc41-11e8-91a5-3ba215be70fb.png)](https://youtu.be/1R4LZIwi85k)
